@@ -10,7 +10,6 @@ function App() {
   function calcular(){
     const idade = (2026 - inputIdade)
     setCalculo(idade)
-    setInputNome("")
     setInputIdade(0)
   }
   return (
